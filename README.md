@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="100%" height="350px">
+
 <h1 align="center">Hi 👋, I'm Veerubhai Ambani</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
 
