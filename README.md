@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veerubhai_Ambani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img  src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2mqV46et4rKnLmYAPEPwB2&ust=1715074529568000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDwtozd-IUDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerubhai&label=Profile%20views&color=0e75b6&style=flat" alt="veerubhai" /> </p>
 
 - 🔭 I’m currently working on **chalopandit_dashboard**
